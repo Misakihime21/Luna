@@ -6,15 +6,15 @@ a 6 y.o girl is afraid of darkness. she must find support to save herself from i
 WHAT IS DONE
 
 - menu
+- crouching
 
 ----------
 
 TODO LIST
 
-- crouching
+- sound effects
 - drawer opening
-- make character smaller
-
+- mom animBP
 
 GENERAL IDEA
 
