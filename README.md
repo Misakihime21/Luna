@@ -6,15 +6,15 @@ a 6 y.o girl is afraid of darkness. she must find support to save herself from i
 WHAT IS DONE
 
 - menu
+- crouching
 
 ----------
 
 TODO LIST
 
-- crouching
+- sound effects
 - drawer opening
-- make character smaller
-
+- mom animBP
 
 GENERAL IDEA
 
@@ -24,3 +24,5 @@ GENERAL IDEA
 4. girl found strength in her to fight demons
 5. crouching and climbing environment to get the light and wake mom
 6. mom helps a girl get to bed and turning lights on but girls telling her that she is fine in the dark
+
+along the way you can see that mom is suffering from depression cuz her husband left her, or maybe died. but the girl is the greatest support for her
