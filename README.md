@@ -7,14 +7,28 @@ WHAT IS DONE
 
 - menu
 - crouching
+- Luna's room
 
 ----------
 
 TODO LIST
 
+Locations
+- dad's room (dark and dusty room full of medical things)
+- mom's room
+- living room
+- kitchen
+- basement (switcher that turns lights on)
+
+- candle in Luna's hands
+
+- commentary text (like Press E to interact)
+- Luna's commentary (dialogue text)
+
 - sound effects
 - drawer opening
-- mom animBP
+- door opening on the opposite direction from player
+- light switch
 
 GENERAL IDEA
 
