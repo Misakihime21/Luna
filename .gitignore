@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets from store
+Content/EF_Edie/*
+Content/EF_FirstFloor/*
+
+# Default assets
+Content/Characters/*
+Content/StarterContent/*
+Content/FirstPerson/*
+Content/FirstPersonArms/*
+Content/Platformer/*
+
+# Sounds
+Content/ThirdPerson/Sounds/*
