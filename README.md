@@ -14,7 +14,7 @@ TODO LIST
 
 - sound effects
 - drawer opening
-- mom animBP
+- door opening on the opposite direction from player
 
 GENERAL IDEA
 
