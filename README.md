@@ -3,11 +3,20 @@ practicOnJam
 
 a 6 y.o girl is afraid of darkness. she must find support to save herself from inner demons.
 
+ASSETS
+"Light Switch" (https://skfb.ly/oqETA) by Avot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+EF_Barbra
+EF_Edie
+EF_FirstFloor
+Kate and animations by Mixamo
+Mixkit sound effects
+
 WHAT IS DONE
 
 - menu
 - crouching
 - Luna's room
+- lightswitch
 
 ----------
 
@@ -25,6 +34,7 @@ Locations
 - commentary text (like Press E to interact)
 - Luna's commentary (dialogue text)
 
+- lightswitch connected to any pointlight
 - sound effects
 - drawer opening
 - door opening on the opposite direction from player
