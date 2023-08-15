@@ -16,29 +16,31 @@ WHAT IS DONE
 - menu
 - crouching
 - Luna's room
-- lightswitch
+- lightswitch is connected to any BP_Lights by index
 
 ----------
 
 TODO LIST
 
 Locations
-- dad's room (dark and dusty room full of medical things)
-- mom's room
-- living room
+- parents's room (dark and dusty room full of medical things)
+- living room (where mom sleeps - dark and scary to approach)
 - kitchen
+- bathroom
 - basement (switcher that turns lights on)
+
+- broken table and a plate srcreamer
+
+- bugfix switcher interactions - check with the linetrace
 
 - candle in Luna's hands
 
 - commentary text (like Press E to interact)
 - Luna's commentary (dialogue text)
 
-- lightswitch connected to any pointlight
 - sound effects
 - drawer opening
 - door opening on the opposite direction from player
-- light switch
 
 GENERAL IDEA
 
