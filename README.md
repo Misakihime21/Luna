@@ -6,6 +6,8 @@ a 6 y.o girl is afraid of darkness. she must find support to save herself from i
 
 ASSETS
 "Light Switch" (https://skfb.ly/oqETA) by Avot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Door key" (https://skfb.ly/6SNAw) by SusanKing is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 EF_Barbra
 EF_Edie
 EF_FirstFloor
@@ -29,8 +31,7 @@ Locations
 - closet in the corridor
 - parent's bathroom
 
-- broken table and a plate srcreamer
-
+- broken table and a plate screamer
 - a demon - two glowing eyes
 
 - bugfix switcher interactions - check with the linetrace
@@ -41,10 +42,16 @@ Locations
 - Luna's commentary (dialogue text)
 
 - sound effects
+- acceleration  (can be turned on after seeing mom)
 
+- glowing material for big switch
+
+ADDITIONAL
 - molding (плинтус)
 - drawer opening
 - door opening on the opposite direction from player
+
+- basement key
 
 
 
