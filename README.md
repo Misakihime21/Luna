@@ -6,6 +6,8 @@ a 6 y.o girl is afraid of darkness. she must find support to save herself from i
 
 ASSETS
 "Light Switch" (https://skfb.ly/oqETA) by Avot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+"Door key" (https://skfb.ly/6SNAw) by SusanKing is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 EF_Barbra
 EF_Edie
 EF_FirstFloor
