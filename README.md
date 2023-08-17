@@ -29,8 +29,7 @@ Locations
 - closet in the corridor
 - parent's bathroom
 
-- broken table and a plate srcreamer
-
+- broken table and a plate screamer
 - a demon - two glowing eyes
 
 - bugfix switcher interactions - check with the linetrace
@@ -41,10 +40,16 @@ Locations
 - Luna's commentary (dialogue text)
 
 - sound effects
+- acceleration  (can be turned on after seeing mom)
 
+- glowing material for big switch
+
+ADDITIONAL
 - molding (плинтус)
 - drawer opening
 - door opening on the opposite direction from player
+
+- basement key
 
 
 
