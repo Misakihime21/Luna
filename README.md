@@ -21,38 +21,40 @@ WHAT IS DONE
 - rooms
 - lightswitch is connected to any BP_Lights by index
 - basement switcher that turns lights on
+- broken table screamer
+- press E to interact text
+- sound effects
+
+- basement key
+- basement door with a lock
+- sleeping mom
+- commentary
+- flashlight in Luna's hands
+- a demon - two glowing eyes
+
 
 ----------
 
 TODO LIST
+
+- broken plate screamer
+
+- end cutscene
+
+- pause with current objective (connect to mode variable in Gamemode)
+
 
 Locations
 - toilet
 - closet in the corridor
 - parent's bathroom
 
-- broken table and a plate screamer
-- a demon - two glowing eyes
-
-- bugfix switcher interactions - check with the linetrace
-
-- flashlight in Luna's hands?
-
-- commentary text (like Press E to interact)
-- Luna's commentary (dialogue text)
-
-- sound effects
-- acceleration  (can be turned on after seeing mom)
-
-- glowing material for big switch
-
 ADDITIONAL
 - molding (плинтус)
 - drawer opening
 - door opening on the opposite direction from player
-
-- basement key
-
+- acceleration can be turned on after seeing mom
+- lights counter? 
 
 
 GENERAL IDEA
