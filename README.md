@@ -44,6 +44,10 @@ TODO LIST
 
 - end cutscene
 
+- pause with current objective (connect to mode variable in Gamemode)
+- lights counter? 
+
+
 Locations
 - toilet
 - closet in the corridor
