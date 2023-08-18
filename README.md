@@ -35,8 +35,6 @@ WHAT IS DONE
 
 TODO LIST
 
-- KEYBUG - trace to check
-
 - broken plate screamer
 - a demon - two glowing eyes
 
