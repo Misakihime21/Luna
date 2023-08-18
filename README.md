@@ -28,7 +28,9 @@ WHAT IS DONE
 - basement key
 - basement door with a lock
 - sleeping mom
-- commentary base 
+- commentary
+- flashlight in Luna's hands
+- a demon - two glowing eyes
 
 
 ----------
@@ -36,14 +38,10 @@ WHAT IS DONE
 TODO LIST
 
 - broken plate screamer
-- a demon - two glowing eyes
-
-- flashlight in Luna's hands
 
 - end cutscene
 
 - pause with current objective (connect to mode variable in Gamemode)
-- lights counter? 
 
 
 Locations
@@ -56,6 +54,7 @@ ADDITIONAL
 - drawer opening
 - door opening on the opposite direction from player
 - acceleration can be turned on after seeing mom
+- lights counter? 
 
 
 GENERAL IDEA
