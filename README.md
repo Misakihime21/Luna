@@ -43,8 +43,9 @@ TODO LIST
 
 - pause with current objective (connect to mode variable in Gamemode)
 
-- change the broken plate sound start point
 - light the house in the end
+
+- click sound in menu
 
 Locations
 - toilet
