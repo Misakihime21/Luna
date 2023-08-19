@@ -41,6 +41,7 @@ TODO LIST
 
 - broken plate screamer
 
+- 'need to find mom' when turn the first light on
 - end cutscene
 
 - pause with current objective (connect to mode variable in Gamemode)
