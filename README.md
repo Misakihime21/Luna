@@ -24,8 +24,10 @@ WHAT IS DONE
 - lightswitch is connected to any BP_Lights by index
 - basement switcher that turns lights on
 - broken table screamer
+- broken plate screamer
 - press E to interact text
 - sound effects
+- opening and end cutscene
 
 - basement key
 - basement door with a lock
@@ -39,13 +41,10 @@ WHAT IS DONE
 
 TODO LIST
 
-- broken plate screamer
-
-- 'need to find mom' when turn the first light on
-- end cutscene
-
 - pause with current objective (connect to mode variable in Gamemode)
 
+- change the broken plate sound start point
+- light the house in the end
 
 Locations
 - toilet
