@@ -1,22 +1,24 @@
 # Luna | The Darkest Night
+a first-person psychological horror prototype
 
 practicOnJam
 
-a 6 y.o girl is afraid of darkness. she must find support to save herself from inner demons.
+A 6-year-old girl must find courage within herself to face her fear of darkness and conquer the inner demons.
 
 ASSETS
+Epic Content:
+Edith Finch: Edie Room
+Edith Finch: Barbara Room
+Edith Finch: House and Common
+
 "Light Switch" (https://skfb.ly/oqETA) by Avot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 "Door key" (https://skfb.ly/6SNAw) by SusanKing is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-EF_Barbra
-EF_Edie
-EF_FirstFloor
-Kate and animations by Mixamo
+Kate Character and animations by Mixamo
 Mixkit sound effects
 
 WHAT IS DONE
 
-- menu
+- menu + menu pictures
 - crouching
 - rooms
 - lightswitch is connected to any BP_Lights by index
