@@ -46,6 +46,9 @@ TODO LIST
 - light the house in the end
 - moving objects to get for the high switch
 
+Bugfix for trace by channel interaction
+Maybe I should use overlap instead and check if the player facing the direction of the item?
+
 Locations
 - toilet
 - closet in the corridor
