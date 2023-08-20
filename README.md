@@ -19,6 +19,7 @@ Mixkit sound effects
 WHAT IS DONE
 
 - menu + menu pictures
+- pause menu
 - crouching
 - rooms
 - lightswitch is connected to any BP_Lights by index
@@ -27,7 +28,7 @@ WHAT IS DONE
 - broken plate screamer
 - press E to interact text
 - sound effects
-- opening and end cutscene
+- simple opening and end cutscene 
 
 - basement key
 - basement door with a lock
@@ -45,8 +46,6 @@ TODO LIST
 
 - light the house in the end
 
-- click sound in menu
-
 Locations
 - toilet
 - closet in the corridor
@@ -59,6 +58,7 @@ ADDITIONAL
 - acceleration can be turned on after seeing mom
 - lights counter? 
 
+- options
 
 GENERAL IDEA
 
