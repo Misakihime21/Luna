@@ -42,9 +42,9 @@ WHAT IS DONE
 
 TODO LIST
 
-- pause with current objective (connect to mode variable in Gamemode)
-
+- current objective in pause menu(connect to mode variable in Gamemode)
 - light the house in the end
+- moving objects to get for the high switch
 
 Locations
 - toilet
@@ -57,6 +57,7 @@ ADDITIONAL
 - door opening on the opposite direction from player
 - acceleration can be turned on after seeing mom
 - lights counter? 
+- commentary on a broken switch in parent's room?
 
 - options
 
