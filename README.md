@@ -42,12 +42,29 @@ WHAT IS DONE
 
 TODO LIST
 
+- ending scene - fix the rotating function (in LunaBP) prbly put it to event tick with branch
+
+
 - current objective in pause menu(connect to mode variable in Gamemode)
 - light the house in the end
 - moving objects to get for the high switch
 
+- collision on the steps to the basement
+
 Bugfix for trace by channel interaction
 Maybe I should use overlap instead and check if the player facing the direction of the item?
+
+- make a key don't stand out while it isn't needed
+- impove scary animations (table\plate)
+- make demon eyes darker so it wouldn't be clear that it just a floating ball
+- perhaps an easy fix for trace is to add a cursor in the middle of screen - orrr add a collision to the switch
+
+- luna's hands asset change
+
+- настройка освещения
+
+- диалог финальной заставки в массиве и цикле
+- вид из окна пофиксить
 
 Locations
 - toilet
