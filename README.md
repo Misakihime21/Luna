@@ -42,7 +42,7 @@ WHAT IS DONE
 
 TODO LIST
 
-- ending scene - fix the rotating function (in LunaBP) prbly put it to event tick with branch
++ ending scene - the rotating function
 
 
 - current objective in pause menu(connect to mode variable in Gamemode)
