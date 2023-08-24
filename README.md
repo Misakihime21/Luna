@@ -42,15 +42,20 @@ WHAT IS DONE
 
 TODO LIST
 
-+ ending scene - the rotating function
 + dot when can interact with object
 + collision on the steps to the basement
++ outside view
 
+- ending scene - the rotating function
+
+- basement door block while didn't talk to mom
 - press E sign by trace fix
+- make a key don't stand out while it isn't needed
 - biggerlight switch collision
 
+- text background
+
 - toilet 
-- outside view
 - rename the project from Luna
 - a different music when lights go of\changes when it works again
 - current objective in pause menu(connect to mode variable in Gamemode)
@@ -58,7 +63,6 @@ TODO LIST
 - moving objects to get for the high switch
 
 
-- make a key don't stand out while it isn't needed
 - impove scary animations (table\plate)
 - make demon eyes darker so it wouldn't be clear that it just a floating ball
 - perhaps an easy fix for trace is to add a cursor in the middle of screen - orrr add a collision to the switch
@@ -68,7 +72,10 @@ TODO LIST
 - настройка громкости и освещения
 - вид из окна пофиксить
 
+BEFORE FINISHING
 - change acceleration speed back to 300
+- check the lights
+- check the mode!
 
 Locations
 - toilet
