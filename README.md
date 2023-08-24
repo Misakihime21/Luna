@@ -43,16 +43,17 @@ WHAT IS DONE
 TODO LIST
 
 + ending scene - the rotating function
++ dot when can interact with object
 
-
+- toilet 
+- outside view
+- rename the project from Luna
+- a different music when lights go of\changes when it works again
 - current objective in pause menu(connect to mode variable in Gamemode)
 - light the house in the end
 - moving objects to get for the high switch
 
 - collision on the steps to the basement
-
-Bugfix for trace by channel interaction
-Maybe I should use overlap instead and check if the player facing the direction of the item?
 
 - make a key don't stand out while it isn't needed
 - impove scary animations (table\plate)
