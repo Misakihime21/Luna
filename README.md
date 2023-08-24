@@ -45,15 +45,15 @@ TODO LIST
 + dot when can interact with object
 + collision on the steps to the basement
 + outside view
++ make a key don't stand out while it isn't needed
++ biggerlight switch collision
++ basement door block while didn't talk to mom
 
 - ending scene - the rotating function
+- impove scary animations (table\plate)
 
-- basement door block while didn't talk to mom
 - press E sign by trace fix
-- make a key don't stand out while it isn't needed
-- biggerlight switch collision
 
-- text background
 
 - toilet 
 - rename the project from Luna
@@ -62,8 +62,8 @@ TODO LIST
 - light the house in the end
 - moving objects to get for the high switch
 
+- text vhs effect
 
-- impove scary animations (table\plate)
 - make demon eyes darker so it wouldn't be clear that it just a floating ball
 - perhaps an easy fix for trace is to add a cursor in the middle of screen - orrr add a collision to the switch
 
