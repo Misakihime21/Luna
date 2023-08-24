@@ -44,6 +44,10 @@ TODO LIST
 
 + ending scene - the rotating function
 + dot when can interact with object
++ collision on the steps to the basement
+
+- press E sign by trace fix
+- biggerlight switch collision
 
 - toilet 
 - outside view
@@ -53,7 +57,6 @@ TODO LIST
 - light the house in the end
 - moving objects to get for the high switch
 
-- collision on the steps to the basement
 
 - make a key don't stand out while it isn't needed
 - impove scary animations (table\plate)
@@ -62,10 +65,10 @@ TODO LIST
 
 - luna's hands asset change
 
-- настройка освещения
-
-- диалог финальной заставки в массиве и цикле
+- настройка громкости и освещения
 - вид из окна пофиксить
+
+- change acceleration speed back to 300
 
 Locations
 - toilet
