@@ -35,19 +35,46 @@ WHAT IS DONE
 - sleeping mom
 - commentary
 - flashlight in Luna's hands
-- a demon - two glowing eyes
+- a demon - two glowing eyes and a shadow
 
 
 ----------
 
 TODO LIST
 
-- current objective in pause menu(connect to mode variable in Gamemode)
-- light the house in the end
-- moving objects to get for the high switch
++ dot when can interact with object
++ collision on the steps to the basement
++ outside view
++ make a key don't stand out while it isn't needed
++ biggerlight switch collision
++ basement door block while didn't talk to mom
++ window view
++ darker demon eyes so it wouldn't be clear that it just a floating ball
 
-Bugfix for trace by channel interaction
-Maybe I should use overlap instead and check if the player facing the direction of the item?
+- ending scene - the rotating function
+- impove scary animations (table\plate)
+- sound settings
+- brightness settings
+
+- press E sign by trace fix
+- luna's hands asset change
+
+- toilet 
+- rename the project from Luna
+- a different background music when lights go of\changes when it works again
+- current objective in pause menu(connect to mode variable in Gamemode)
+
+- text vhs effect
+- molding (плинтус)
+- commentary on a broken switch in parent's room?
+- light the house in the end
+
+
+BEFORE FINISHING
+- change acceleration speed back to 300
+- check the lights
+- check the mode!
+- test settings, pause menu quit (to the menu)
 
 Locations
 - toilet
@@ -55,14 +82,10 @@ Locations
 - parent's bathroom
 
 ADDITIONAL
-- molding (плинтус)
-- drawer opening
-- door opening on the opposite direction from player
-- acceleration can be turned on after seeing mom
-- lights counter? 
-- commentary on a broken switch in parent's room?
 
-- options
+- moving objects to get for the high switch
+- drawer opening
+- lights counter? 
 
 GENERAL IDEA
 
@@ -77,4 +100,4 @@ lights must turn off at this point. table screamer
 5. crouching and climbing environment to get the light and wake mom
 6. mom helps a girl get to bed and turning lights on but girls telling her that she is fine in the dark
 
-along the way you can see that mom is suffering from depression cuz her husband left her, or maybe died. but the girl is the greatest support for her
+along the way you can see that mom is suffering from depression cuz her husband died. but the girl is the greatest support for her
