@@ -50,31 +50,35 @@ TODO LIST
 + basement door block while didn't talk to mom
 + window view
 + darker demon eyes so it wouldn't be clear that it just a floating ball
++ settings:
+	+ sound
+	+ brightness
+	+ mouse
++ 
+
+- luna's hands asset change
+- toilet 
+- rename the project from Luna?
 
 - ending scene - the rotating function
 - impove scary animations (table\plate)
-- sound settings
-- brightness settings
 
 - press E sign by trace fix
-- luna's hands asset change
 
-- toilet 
-- rename the project from Luna
 - a different background music when lights go of\changes when it works again
 - current objective in pause menu(connect to mode variable in Gamemode)
 
-- text vhs effect
 - molding (плинтус)
 - commentary on a broken switch in parent's room?
 - light the house in the end
+- text vhs effect?
 
 
 BEFORE FINISHING
 - change acceleration speed back to 300
 - check the lights
 - check the mode!
-- test settings, pause menu quit (to the menu)
+- test settings, make sliders default
 
 Locations
 - toilet
