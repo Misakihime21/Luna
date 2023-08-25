@@ -48,6 +48,7 @@ TODO LIST
 + make a key don't stand out while it isn't needed
 + biggerlight switch collision
 + basement door block while didn't talk to mom
++ window view
 
 - ending scene - the rotating function
 - impove scary animations (table\plate)
@@ -70,12 +71,15 @@ TODO LIST
 - luna's hands asset change
 
 - настройка громкости и освещения
-- вид из окна пофиксить
+- sound settings
+- brightness settings
+
 
 BEFORE FINISHING
 - change acceleration speed back to 300
 - check the lights
 - check the mode!
+- test settings, pause menu quit (to the menu)
 
 Locations
 - toilet
