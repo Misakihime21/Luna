@@ -42,39 +42,47 @@ WHAT IS DONE
 
 TODO LIST
 
-+ dot when can interact with object
++ dot when can interact with object (with dark border)
 + collision on the steps to the basement
 + outside view
 + make a key don't stand out while it isn't needed
 + biggerlight switch collision
 + basement door block while didn't talk to mom
 + window view
++ toilet 
++ molding
 + darker demon eyes so it wouldn't be clear that it just a floating ball
++ settings:
+	+ sound
+	+ brightness
+	+ mouse
+	+ default button
++ commentary:
+	+ medicine -- interactable
+	+ interactive photo frame
+	+ commentary on a turned off light
+	+ a broken switch in parent's room
++ press E sign by trace fix -- tutorial
+
+
+- luna's hands asset change
 
 - ending scene - the rotating function
 - impove scary animations (table\plate)
-- sound settings
-- brightness settings
+- bathroom screamer
 
-- press E sign by trace fix
-- luna's hands asset change
-
-- toilet 
-- rename the project from Luna
 - a different background music when lights go of\changes when it works again
 - current objective in pause menu(connect to mode variable in Gamemode)
 
-- text vhs effect
-- molding (плинтус)
-- commentary on a broken switch in parent's room?
-- light the house in the end
+
+- text vhs effect?
 
 
 BEFORE FINISHING
 - change acceleration speed back to 300
 - check the lights
 - check the mode!
-- test settings, pause menu quit (to the menu)
+- test settings, make sliders default
 
 Locations
 - toilet
@@ -84,8 +92,12 @@ Locations
 ADDITIONAL
 
 - moving objects to get for the high switch
+- broken basement switch -- solve a puzzle to find a thing to repare it
 - drawer opening
-- lights counter? 
+- interactive broken TV?
+- lights counter
+- new font for texts and menu
+- light the house in the end
 
 GENERAL IDEA
 
