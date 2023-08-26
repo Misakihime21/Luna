@@ -63,18 +63,13 @@ TODO LIST
 	+ commentary on a turned off light
 	+ a broken switch in parent's room
 + press E sign by trace fix -- tutorial
-
-
-- luna's hands asset change
++ luna's hands fix -- are not seen anymore
++ bathroom screamer
 
 - ending scene - the rotating function
 - impove scary animations (table\plate)
-- bathroom screamer
 
 - a different background music when lights go of\changes when it works again
-- current objective in pause menu(connect to mode variable in Gamemode)
-
-
 - text vhs effect?
 
 
@@ -98,6 +93,7 @@ ADDITIONAL
 - lights counter
 - new font for texts and menu
 - light the house in the end
+- current objective in pause menu(connect to mode variable in Gamemode)
 
 GENERAL IDEA
 
