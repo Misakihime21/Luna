@@ -54,7 +54,11 @@ TODO LIST
 	+ sound
 	+ brightness
 	+ mouse
-+ 
++ default settings button
+
+- press E sign by trace fix (get actors with tag?)
+- commentary about medicine -- make it interactable! (bigger bottle collision + add a glass to the BP)
+- commentary on a broken switch in parent's room?
 
 - luna's hands asset change
 - toilet 
@@ -63,13 +67,11 @@ TODO LIST
 - ending scene - the rotating function
 - impove scary animations (table\plate)
 
-- press E sign by trace fix
 
 - a different background music when lights go of\changes when it works again
 - current objective in pause menu(connect to mode variable in Gamemode)
 
 - molding (плинтус)
-- commentary on a broken switch in parent's room?
 - light the house in the end
 - text vhs effect?
 
