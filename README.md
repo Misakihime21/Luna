@@ -50,29 +50,31 @@ TODO LIST
 + basement door block while didn't talk to mom
 + window view
 + toilet 
++ molding
 + darker demon eyes so it wouldn't be clear that it just a floating ball
 + settings:
 	+ sound
 	+ brightness
 	+ mouse
 	+ default button
-+ commentary about medicine -- interactable
++ commentary:
+	+ medicine -- interactable
+	+ interactive photo frame
+	+ commentary on a turned off light
+	+ a broken switch in parent's room
 + press E sign by trace fix -- tutorial
 
-
-- commentary on a broken switch in parent's room?
-- interactive photo frame
 
 - luna's hands asset change
 
 - ending scene - the rotating function
 - impove scary animations (table\plate)
+- bathroom screamer
 
 - a different background music when lights go of\changes when it works again
 - current objective in pause menu(connect to mode variable in Gamemode)
 
-- molding (плинтус)
-- light the house in the end
+
 - text vhs effect?
 
 
@@ -90,8 +92,12 @@ Locations
 ADDITIONAL
 
 - moving objects to get for the high switch
+- broken basement switch -- solve a puzzle to find a thing to repare it
 - drawer opening
-- lights counter? 
+- interactive broken TV?
+- lights counter
+- new font for texts and menu
+- light the house in the end
 
 GENERAL IDEA
 
