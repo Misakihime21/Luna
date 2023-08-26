@@ -42,31 +42,31 @@ WHAT IS DONE
 
 TODO LIST
 
-+ dot when can interact with object
++ dot when can interact with object (with dark border)
 + collision on the steps to the basement
 + outside view
 + make a key don't stand out while it isn't needed
 + biggerlight switch collision
 + basement door block while didn't talk to mom
 + window view
++ toilet 
 + darker demon eyes so it wouldn't be clear that it just a floating ball
 + settings:
 	+ sound
 	+ brightness
 	+ mouse
-+ default settings button
+	+ default button
++ commentary about medicine -- interactable
++ press E sign by trace fix -- tutorial
 
-- press E sign by trace fix (get actors with tag?)
-- commentary about medicine -- make it interactable! (bigger bottle collision + add a glass to the BP)
+
 - commentary on a broken switch in parent's room?
+- interactive photo frame
 
 - luna's hands asset change
-- toilet 
-- rename the project from Luna?
 
 - ending scene - the rotating function
 - impove scary animations (table\plate)
-
 
 - a different background music when lights go of\changes when it works again
 - current objective in pause menu(connect to mode variable in Gamemode)
