@@ -14,6 +14,11 @@ Edith Finch: House and Common
 "Light Switch" (https://skfb.ly/oqETA) by Avot is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 "Door key" (https://skfb.ly/6SNAw) by SusanKing is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 Kate Character and animations by Mixamo
+Music: 
+	Relax by Francisco Alvear
+	Fragments Of Bangkok by Eugenio Mininni
+	Piano Horror by Francisco Alvear
+
 Mixkit sound effects
 
 WHAT IS DONE
@@ -62,14 +67,15 @@ TODO LIST
 	+ interactive photo frame
 	+ commentary on a turned off light
 	+ a broken switch in parent's room
+	+ wheelchair
 + press E sign by trace fix -- tutorial
 + luna's hands fix -- are not seen anymore
 + bathroom screamer
++ a different background music when lights go off
 
 - ending scene - the rotating function
 - impove scary animations (table\plate)
 
-- a different background music when lights go of\changes when it works again
 - text vhs effect?
 
 
@@ -78,6 +84,8 @@ BEFORE FINISHING
 - check the lights
 - check the mode!
 - test settings, make sliders default
+- test if the creepy music is ok here
+
 
 Locations
 - toilet
