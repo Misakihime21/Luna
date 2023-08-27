@@ -42,51 +42,45 @@ WHAT IS DONE
 - flashlight in Luna's hands
 - a demon - two glowing eyes and a shadow
 
+Main features:
++ Added a dot to indicate interactive objects;
++ Added settings menu with options for sound, brightness, mouse sensitivity, and default settings.
++ Interactive items with commentaries added:
+	* 'Mom's medicine' is now interactable instead of overlaping with player;
+	* Photo frame in the parent's room;
+ 	* Broken switch in the parent's room;
+  	* Wheelchair;
+  	* Mom's couch.
++ Bathroom event added;
++ Demon eyes in the basement doesn't stand out from the dark anymore;
++ Luna rotates to mom in the ending scene;
++ Table animation enhanced (still a little rough).
+
+Minor changes and bug fixes:
++ "Press E" sign for tutorial purposes activates only when player can actually interact;
++ Adjusted the visibility of the key so it doesn't stand out when unnecessary;
++ Fixed collision on the steps leading to the basement;
++ Fixed outside view;
++ Added a toilet;
++ Added molding details;
++ Luna's hands isn't visible anymore;
++ The lights on the basement door to make it stand out;
++ Removed glitchy animation for a broken plate.
 
 ----------
 
 TODO LIST
 
-+ dot when can interact with object (with dark border)
-+ collision on the steps to the basement
-+ outside view
-+ make a key don't stand out while it isn't needed
-+ biggerlight switch collision
-+ basement door block while didn't talk to mom
-+ window view
-+ toilet 
-+ molding
-+ darker demon eyes so it wouldn't be clear that it just a floating ball
-+ settings:
-	+ sound
-	+ brightness
-	+ mouse
-	+ default button
-+ commentary:
-	+ medicine -- interactable
-	+ interactive photo frame
-	+ commentary on a turned off light
-	+ a broken switch in parent's room
-	+ wheelchair
-	+ mom's couch
-+ press E sign by trace fix -- tutorial
-+ luna's hands fix -- are not seen anymore
-+ bathroom screamer
-+ a different background music when lights go off
-+ ending scene - the rotating function
-+ light up the basement door
+- ending scene rotation make smoother;
+- 
 
 
-- impove scary animations
-	+ plate
-	- table
 
 BEFORE FINISHING
-- change acceleration speed back to 300
++ change acceleration speed back to 300
 - check the lights
-- check the mode!
+- check the mode
 - test settings, make sliders default
-- test if the creepy music is ok here
 
 
 Locations
@@ -106,7 +100,7 @@ ADDITIONAL
 - current objective in pause menu(connect to mode variable in Gamemode)
 - typewriting texts
 - text vhs effect?
-
+- credits page for assets used
 
 
 GENERAL IDEA
