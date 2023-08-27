@@ -68,16 +68,18 @@ TODO LIST
 	+ commentary on a turned off light
 	+ a broken switch in parent's room
 	+ wheelchair
+	+ mom's couch
 + press E sign by trace fix -- tutorial
 + luna's hands fix -- are not seen anymore
 + bathroom screamer
 + a different background music when lights go off
++ ending scene - the rotating function
++ light up the basement door
 
-- ending scene - the rotating function
-- impove scary animations (table\plate)
 
-- text vhs effect?
-
+- impove scary animations
+	+ plate
+	- table
 
 BEFORE FINISHING
 - change acceleration speed back to 300
@@ -102,6 +104,10 @@ ADDITIONAL
 - new font for texts and menu
 - light the house in the end
 - current objective in pause menu(connect to mode variable in Gamemode)
+- typewriting texts
+- text vhs effect?
+
+
 
 GENERAL IDEA
 
