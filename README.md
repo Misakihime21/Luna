@@ -52,28 +52,29 @@ Main features:
   	* Wheelchair;
   	* Mom's couch.
 + Bathroom event added;
++ Fixed unlimited FPS;
 + Demon eyes in the basement doesn't stand out from the dark anymore;
 + Luna rotates to mom in the ending scene;
 + Table animation enhanced (still a little rough).
 
 Minor changes and bug fixes:
 + "Press E" sign for tutorial purposes activates only when player can actually interact;
-+ Adjusted the visibility of the key so it doesn't stand out when unnecessary;
++ Adjusted the material of the key so it doesn't stand out when unnecessary;
 + Fixed collision on the steps leading to the basement;
-+ Fixed outside view;
-+ Added a toilet;
-+ Added molding details;
-+ Luna's hands isn't visible anymore;
 + The lights on the basement door to make it stand out;
-+ Removed glitchy animation for a broken plate.
++ Removed glitchy animation for a broken plate;
++ Fixed wall collision;
++ Cosmetic changes:
+	+ Fixed outside view (basically removed it);
+	+ Added a toilet;
+	+ Added molding details;
+	+ Luna's hands isn't visible anymore.
 
 ----------
 
 TODO LIST
 
-- ending scene rotation make smoother;
-- 
-
+- texts can cover each other, maybe add a background
 
 
 BEFORE FINISHING
