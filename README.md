@@ -68,14 +68,14 @@ Minor changes and bug fixes:
 	+ Fixed outside view (basically removed it);
 	+ Added a toilet;
 	+ Added molding details;
-	+ Luna's hands isn't visible anymore.
+	+ Luna's hands isn't visible anymore;
+	+ Shadows are softened.
 
 ----------
 
 TODO LIST
 
 - texts can cover each other, maybe add a background
-- make soft shadows somehow - big light sourse?
 
 BEFORE FINISHING
 + change acceleration speed back to 300
