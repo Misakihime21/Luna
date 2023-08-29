@@ -75,7 +75,7 @@ Minor changes and bug fixes:
 TODO LIST
 
 - texts can cover each other, maybe add a background
-
+- make soft shadows somehow - big light sourse?
 
 BEFORE FINISHING
 + change acceleration speed back to 300
