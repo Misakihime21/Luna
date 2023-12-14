@@ -75,14 +75,13 @@ Minor changes and bug fixes:
 
 TODO LIST
 
-- texts can cover each other, maybe add a background
+- texts can cover each other, maybe add a background (use changing valuable in the UI)
 
 BEFORE FINISHING
 + change acceleration speed back to 300
 - check the lights
 - check the mode
 - test settings, make sliders default
-
 
 Locations
 - toilet
@@ -91,17 +90,22 @@ Locations
 
 ADDITIONAL
 
-- moving objects to get for the high switch
-- broken basement switch -- solve a puzzle to find a thing to repare it
-- drawer opening
-- interactive broken TV?
-- lights counter
-- new font for texts and menu
-- light the house in the end
+- showing interactive items when you close enough to them (like FF7R?)
+	change it's appearence after the first interaction;
 - current objective in pause menu(connect to mode variable in Gamemode)
+- new font for texts and menu
 - typewriting texts
 - text vhs effect?
 - credits page for assets used
+
+- moving objects to get for the high switch
+- crouching and climbing environment
+- broken basement switch -- solve a puzzle to find a thing to repare it
+- drawer opening
+- interactive broken TV?
+- quest: light all the house in the end
+	lights counter
+
 
 
 GENERAL IDEA
